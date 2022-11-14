@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047415077060",
+    "project_id": "wave-scout",
+    "storage_bucket": "wave-scout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047415077060:android:05c1a9a2ca1ac06fcdb191",
+        "android_client_info": {
+          "package_name": "com.example.wavescout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047415077060-hbr3tai7ok7buno1tg1a2id6l9skt3tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_ZuIIDdXAJt_1_Xuvaku3cikF0itlEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047415077060-hbr3tai7ok7buno1tg1a2id6l9skt3tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
